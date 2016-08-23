@@ -1,0 +1,11 @@
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\bin\Debug\DocumentationGenerator.exe.config
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\bin\Debug\DocumentationGenerator.exe
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\bin\Debug\DocumentationGenerator.pdb
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\obj\Debug\DocumentationGenerator.DocumentationGeneratorUI.resources
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\obj\Debug\DocumentationGenerator.Properties.Resources.resources
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\obj\Debug\DocumentationGenerator.csproj.GenerateResource.Cache
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\obj\Debug\DocumentationGenerator.exe
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\obj\Debug\DocumentationGenerator.pdb
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\obj\Debug\DocumentationGenerator.csprojResolveAssemblyReference.cache
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\bin\Debug\ObjectLibrary.dll
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\DocumentationGenerator\bin\Debug\ObjectLibrary.pdb

@@ -1,0 +1,4 @@
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\ObjectLibrary\bin\Debug\ObjectLibrary.dll
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\ObjectLibrary\bin\Debug\ObjectLibrary.pdb
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\ObjectLibrary\obj\Debug\ObjectLibrary.dll
+C:\SandBoxes\Jmichaud\Source\GI\3765\DocumentationGenerator\ObjectLibrary\obj\Debug\ObjectLibrary.pdb
